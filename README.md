@@ -23,7 +23,7 @@
 To get started, you need to first clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/TaskLine-Manager-React.git
+git clone https://github.com/sabirhusseinbalal/TaskLine-Manager-React.git
 ```
 
 
