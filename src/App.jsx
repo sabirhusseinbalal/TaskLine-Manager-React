@@ -90,7 +90,7 @@ const sv_tds = (params) => {
             {/* Github */}
             <a
             aria-label="Github" target="_blank"
-              href="https://github.com/Sabirhussainbalal"
+              href="https://github.com/Sabirhusseinbalal"
               className="hover:scale-105 ease-in-out duration-300 shadow-lg p-2 rounded-lg m-1"
             >
               <img
