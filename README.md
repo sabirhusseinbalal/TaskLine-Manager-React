@@ -51,4 +51,4 @@ npm run dev
 http://localhost:5173/
 ```
 
-🎥 **[Demo Video](demo.mp4)**: Watch a short demo to see how the Pomodoro App looks and works in action.
+🎥 **[Demo Video](demo.mp4)**: Watch a short demo to see how this Simple App looks and works.
